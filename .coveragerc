@@ -1,0 +1,5 @@
+[run]
+omit =
+    test_*
+    /Users/nithyasarabudla/opt/anaconda3/bin/python
+
