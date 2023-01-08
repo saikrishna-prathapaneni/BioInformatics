@@ -15,8 +15,5 @@ This program finds all gene symbols that appear both in the chr21_genes.txt file
 These gene symbols are printed to a file in alphabetical order in the output file OUTPUT/intersection_output.txt)
 The program also prints on the terminal how many common gene symbols were found.
 
-# Author
-Nithya Sarabudla
 
-# Date created
-18-11-2022
+
